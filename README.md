@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MoeAliAlHusseini
-- 👀 I’m interested in Coding, mainly in React and React Native!
+- 👀 I’m interested in Coding, mainly in Javascript, React and React Native!
 - 🌱 I’m currently working as a Software engineer at Callsign.
 - 💞️ I'm always coding in my free time. I'm passionate about expanding my knowledge as much as I can.
 
