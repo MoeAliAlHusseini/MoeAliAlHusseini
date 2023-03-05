@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MoeAliAlHusseini
-- 👀 I’m passionate about the world of development, mainly in Javascript, Typescript, React and React Native!
+- 👀 I’m passionate about the world of development, mainly in Javascript, Typescript, ReactJS, NextJS and React Native!
 - 🌱 I’m currently working as a Software engineer at Callsign as part of the Portals team, developing and maintaining features in React.
 
 <!---
